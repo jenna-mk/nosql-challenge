@@ -10,19 +10,19 @@ In the second part of this challenge, I updated the database to ensure that it i
 ## Part 3: Exploratory Analysis
 The final part of this challenge involves analyzing certain aspects of the data in order to inform people on the best (and worst) restaurants to visit in a given area. The questions are as follows:
 
-1.) Which establishments have a hygiene score equal to 20?
+### 1.) Which establishments have a hygiene score equal to 20?
 
 I found 41 total establishments with a hygiene score equal to 20 (for context, hygiene scores are reverse rated, so the higher the score, the worse the rating).
 
-2.) Which establishments in London have a rating value greater than or equal to 4?
+### 2.) Which establishments in London have a rating value greater than or equal to 4?
 
 I found 33 total establishments in London with a rating value greater than or equal to 4.
 
-3.) What are the top 5 establishments with a rating value of 5, sorted by lowest hygiene score, closest to the newly opened Penang Flavours restaurant?
+### 3.) What are the top 5 establishments with a rating value of 5, sorted by lowest hygiene score, closest to the newly opened Penang Flavours restaurant?
 
 The top 5 establishments near Penang Flavours, in order of best hygiene score, are Volunteer (pub/bar/nightclub), Atlantic Fish Bar (takeaway/sandwich shop), Lumbini Grocery Ltd T/A Al-Iman (retailers - other), Iceland (retailers - supermarkets/hypermarkets), and Howe and Co Fish and Chips - Van 17 (mobile caterer).
 
-4.) How many establishments in each local authority area have a hygiene score of 0?
+### 4.) How many establishments in each local authority area have a hygiene score of 0?
 
 There are 55 local authority areas, each with various numbers of establishments that meet the requirement for hygiene score of 0. The full results for this question (as well as all other code for Part 3) is found in Starter_Code/NoSQL_analysis_starter.ipynb. 
 
